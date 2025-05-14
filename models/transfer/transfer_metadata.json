@@ -1,0 +1,1 @@
+{"sequence_length": 150, "embedding_dim": 64, "source_dataset": "machine_temperature_system_failure.csv", "target_dataset": "data/ambient_temperature_system_failure.csv"}
