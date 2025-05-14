@@ -1,0 +1,1 @@
+{"thresholds": {"lstm": 0.06327429413795471, "gru": 0.09184359014034271, "transformer": 0.00015563526540063322, "ensemble": 1.4004390239715576}, "sequence_length": 150, "embedding_dim": 64}
